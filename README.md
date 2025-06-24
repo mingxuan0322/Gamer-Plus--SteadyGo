@@ -28,4 +28,4 @@ This project is part of a modular, personalized system tailored to the co-design
 [Displayed at Capstone Show](https://youtu.be/jR_5agL72wU)
 
 ### Posters
-[Displayed at Capstone Show]()
+[Displayed at Capstone Show](/CapstonePosters.pdf)
